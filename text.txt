@@ -1,0 +1,19 @@
+request=
+
+{
+  "name": "suguna hospital",
+  "address": "mayur bihar",
+  "phone": "7905135558(optional)",
+  "creation_batch_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+}
+
+response=
+{
+  "id": 1,
+  "name": "suguna hospital",
+  "address": "mayur bihar",
+  "phone": null,
+  "creation_batch_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+  "active": false,
+  "created_at": "2025-11-01T12:07:51.181305"
+}
